@@ -22,3 +22,17 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 Code is licensed under the Apache 2.0 license.
 
 
+Gutenberg
+=================
+what modifications you had to make to the project gutenberg HTML files:
+
+    Change background-color to antiquewhite
+
+    resize or adjsut body, img ,div headers
+
+    Add the caption to the images
+
+    Change background-color of headers
+
+    Make paragraph to Align left 
+
