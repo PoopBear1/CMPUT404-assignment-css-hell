@@ -26,13 +26,14 @@ Gutenberg
 =================
 what modifications you had to make to the project gutenberg HTML files:
 
-    Change background-color to antiquewhite
+Change background-color to antiquewhite
 
-    resize or adjsut body, img ,div headers
+resize or adjsut body, img ,div headers
 
-    Add the caption to the images
+Add the caption to the images
 
-    Change background-color of headers
+Change background-color of headers
 
-    Make paragraph to Align left 
+Make paragraph to Align left 
 
+Change font of body and headers
