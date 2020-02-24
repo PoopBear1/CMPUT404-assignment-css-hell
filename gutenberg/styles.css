@@ -1,0 +1,51 @@
+
+div{
+	font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    margin-right: 150px;
+    margin-left: 20;
+    background-color: antiquewhite;
+    color: black;
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: beige;
+    /* background-image: url("images/paper1"); */
+}
+
+img{
+    border-radius: 10%;
+    margin-right: 150px;
+    margin-left: 150px;
+    max-width: 400px;
+    height: auto;
+}
+
+h1{
+    font-size: larger;
+    font-family: sans-serif;
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+}
+h2{
+    font-size: larger;
+    font-family: sans-serif;
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+}
+h3{
+    font-size: larger;
+    font-family: sans-serif;
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+}
+h4{
+    font-size: larger;
+    font-family: sans-serif;
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+}
