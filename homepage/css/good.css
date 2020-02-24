@@ -25,6 +25,7 @@ img{
     border-radius: 1%
 }
 .Experience{
+    background-color: antiquewhite;
     margin-top: 0;
     margin-left: 25%;
     padding-top: 0.5%;
@@ -38,6 +39,7 @@ img{
     width: 70%;
 }
 .Award{
+    background-color: antiquewhite;
     margin-top: 0;
     padding-top: 0.5%;
     padding-bottom: 0.5%;

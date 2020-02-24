@@ -28,8 +28,8 @@
 
 *** Requirements
 
-    - [ ] Theme paragraphs with CSS
-    - [ ] Theme header tags with CSS
+    - [ ] Theme paragraphs with CSS 
+    - [ ] Theme header tags with CSS 
     - [ ] Theme images and images captions with CSS
     - [ ] Change the colour scheme to something aesthetically pleasing
     - [ ] Apply 1 CSS file to 3 gutenberg documents.

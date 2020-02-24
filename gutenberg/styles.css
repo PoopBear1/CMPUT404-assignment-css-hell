@@ -21,6 +21,12 @@ img{
     height: auto;
 }
 
+
+figcaption {
+    text-align : center;
+    font-size: 20px;
+}
+
 h1{
     font-size: larger;
     font-family: sans-serif;
